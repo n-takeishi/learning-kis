@@ -2,7 +2,7 @@
 
 This is a demo implementation of the following paper.
 
-Naoya Takeishi, Yoshinobu Kawahara, and Takehisa Yairi, "Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition," in *Advances in Neural Information Processing Systems (Proc. of NIPS)*, vol. 30, 2017. (to appear)
+Naoya Takeishi, Yoshinobu Kawahara, and Takehisa Yairi, "Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition," in *Advances in Neural Information Processing Systems (Proc. of NIPS)*, vol. 30, pp. 1130-1140, 2017.
 
 arXiv preprint: <https://arxiv.org/abs/1710.04340>
 
