@@ -78,7 +78,7 @@ The result can be inspected using `matlab/exp_lorenz.m`
 
 ## Author
 
-*  **Naoya Takeishi** - [http://www.naoyatakeishi.com/](http://www.naoyatakeishi.com/)
+*  **Naoya Takeishi** - [https://ntake.jp/](https://ntake.jp/)
 
 ## License
 
